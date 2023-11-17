@@ -1,8 +1,8 @@
 # To Design and simulate the logic diagram using Verilog
 
 ```
-NAME: SANJAY.G
-REGISTER NO: 212222230131
+NAME: YUVARAJ.S
+REGISTER NO: 212222240119
 ```
 
 
@@ -45,7 +45,7 @@ End the module.
 ```
 Program to To Design and simulate the logic diagram using Verilog.
 Developed by: SANJAY.G
-RegisterNumber: 212222230131
+RegisterNumber: 212222240119
 
 ```
 ![image](https://github.com/Jaiganesh235/Q13/assets/118657189/e66dfc75-a7d1-4a7e-8a2f-9a094b9dcc3c)
